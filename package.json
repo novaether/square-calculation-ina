@@ -1,0 +1,21 @@
+{
+  "name": "square-calculation-ina",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "generated"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "calculate-indo": "^1.0.1"
+  }
+}
